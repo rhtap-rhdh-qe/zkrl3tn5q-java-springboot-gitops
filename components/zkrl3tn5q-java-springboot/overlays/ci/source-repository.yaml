@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zkrl3tn5q-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zkrl3tn5q-java-springboot
